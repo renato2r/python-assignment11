@@ -1,0 +1,8 @@
+1. Static vs. Interactive Visualizations
+Static visualizations are fixed and unchangeable, while interactive ones allow users to explore data through actions like filtering and zooming, making analysis more flexible.
+
+2. Benefits of Dashboards
+Dashboards provide real-time insights in a single view, helping teams monitor data and make quick, informed decisions.
+
+3. Impact of Tools Like Plotly and Dash
+Interactive tools improve data communication by making complex insights easier to explore and understand, enhancing collaboration and decision-making.
